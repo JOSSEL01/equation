@@ -1,0 +1,21 @@
+.cal{
+  background-color: black;
+  color: white;
+  padding: 15px 40px;
+  margin: 5px;
+  border-radius: 30px;
+}
+
+h1{
+  text-align: center;
+}
+
+.grid_numeros{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid_raices{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
