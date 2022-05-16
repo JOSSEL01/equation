@@ -10,11 +10,7 @@ h1{
   text-align: center;
 }
 
-.grid_numeros{
-    display: grid;
-    grid-template-columns: auto auto auto;
-}
-.grid_raices{
+.grid_roots{
     display: grid;
     grid-template-columns: auto auto;
 }
